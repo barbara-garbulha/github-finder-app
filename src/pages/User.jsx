@@ -126,7 +126,7 @@ function User() {
           </div>
         </div>
 
-        <div className="w-full py-5 mb-6 rounded-lg shadow-md bg-base-100 stats">
+        <div className="w-full py-5 mb-6 rounded-lg shadow-md bg-base-100 stats scrollbarTop">
           <div className="stat">
             <div className="stat-figure text-secondary">
               <FaUsers className="text-3xl md:text-5xl" />
